@@ -387,7 +387,7 @@ export default function App() {
             />
             <TimelineItem 
               role="University Instructor"
-              company="ISET Sidi Bouzid"
+              company="Higher Institute of Technological Studies (ISET)"
               period="Sep 2024 – Jan 2025"
               tasks={[
                 "Delivered university-level technology instruction",
